@@ -1,2 +1,2 @@
 # AlphaSeparatorProblem
-Source code of the frequent itemset driven search and computational results
+Frequent Itemset Driven Search for Alpha-Separtor Problem
